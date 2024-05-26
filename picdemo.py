@@ -1,3 +1,5 @@
+# python picdemo.py --model small --resume ./weights/_ckpt_small.pt.tar --input {img path} --output ./output --resize_size 256
+
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 import time
